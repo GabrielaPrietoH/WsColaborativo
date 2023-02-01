@@ -1,0 +1,9 @@
+matar a tanos
+coger el guantalete
+irse de vacas
+
+public statis void main (String[] args) {
+
+syso ("Hola mundo");
+
+}
