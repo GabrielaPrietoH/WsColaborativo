@@ -1,0 +1,7 @@
+
+
+public class Persona {
+
+String persona;
+String apellidos;
+}
